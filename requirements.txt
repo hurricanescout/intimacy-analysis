@@ -1,0 +1,7 @@
+opencv-python
+face_recognition
+scenedetect
+pandas
+numpy
+matplotlib
+
